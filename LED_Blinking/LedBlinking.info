@@ -1,0 +1,10 @@
+
+This demo project contains simple led blinking using c++ class method which implements the GPIO functionality. (fast and usable)
+
+It has a class for LED Task which accepts the GPIO port data as input and others..
+
+Port pins P1.0 and P1.1 has been shown in example which toggle for every 500ms continuously.
+
+Example shows how c++ can be used with FreeRTOS kernel for creating tasks. [May vary according to functionality and usage]
+
+Thats it!! :-)
