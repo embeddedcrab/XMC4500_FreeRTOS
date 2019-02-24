@@ -1,0 +1,2 @@
+
+This demo project contains simple led blinking using class method which implements the GPIO functionality. (fast and usable)
