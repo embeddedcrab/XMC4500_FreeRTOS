@@ -1,6 +1,6 @@
 #XMC4500 FreeRTOS C and C++ interaction
 
-This repo contains c++ version of UART in FreeRTOS which explains interaction of c and c++ within RTOS environment.
+This repo contains c++ version of UART which explains interaction of c and c++ within RTOS environment.
 
 Motive of this is to explain How C++ can be used for Microcontrollers in RTOS environment while using the existing C libraries.
 
