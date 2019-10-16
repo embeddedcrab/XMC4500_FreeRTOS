@@ -77,7 +77,7 @@ int main(void)
 	#pragma GCC diagnostic ignored "-Wwrite-strings"
 	TaskCreationParams TaskParams = {"LED_TASK", configMINIMAL_STACK_SIZE, 1 };
 	TaskCreationParams TaskParams1 = { "LED_TASK1", configMINIMAL_STACK_SIZE, 1 };
-	#pragma GCC diagnostic push
+	#pragma GCC diagnostic pop
 
 	eUART_Status_ uart_status = eUART_Status_::UART_STATUS_FAILED;
 
