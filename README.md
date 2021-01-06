@@ -1,4 +1,4 @@
-# XMC4500_FreeRTOS and Peripherals
+# XMC4500_FreeRTOS and Peripherals Stack
 This repo contains FreeRTOS projects done on XMC4500 Relax Kit 
 
 
@@ -11,7 +11,7 @@ You will gain following forom this repository:
   b. inc contains api function declarations
   c. src contains API function definitions and ISR handlers
 
-3. Multiple peripherals usage [check <XMC4500_FreeRTOS_Peripherals/Drivers>] w/most of the things you need to know about peripherals.
+3. Multiple peripherals stack & usage in application [check <XMC4500_FreeRTOS_Peripherals/Drivers>]
 
 
 Happy to Help and Share 😊
